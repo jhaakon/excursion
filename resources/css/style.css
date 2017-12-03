@@ -15,6 +15,10 @@ font-size: 50px;
   color: aquamarine;
   text-decoration: underline;
 }
+.footer{
+  text-align: right;
+  color: gray;
+}
 h1{
   font-family: verdana;
   font-weight: 300;
